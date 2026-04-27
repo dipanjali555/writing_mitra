@@ -1,0 +1,13 @@
+.form-title{
+    font-weight: bold;
+    color: #4e73df;
+}
+
+.btn-success{
+    background: linear-gradient(45deg, #28a745, #20c997);
+    border: none;
+}
+
+.btn-success:hover{
+    opacity: 0.9;
+}

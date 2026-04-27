@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.form-section {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* Background Image */
+  background-image: url("https://images.unsplash.com/photo-1522202176988-66273c2fd55f");
+  background-size: cover;
+  background-position: center;
+}
+
+.form-box {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 40px;
+  border-radius: 10px;
+  width: 350px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
